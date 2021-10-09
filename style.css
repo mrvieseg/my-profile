@@ -1,0 +1,57 @@
+body {<div style="
+    background: white;                         /* White background */
+    padding: 30px;                             /* Internal space */
+    border-radius: 20px;                        /* Small radius */
+    box-shadow: 0 10px 30px rgba(0,0,0,.1);    /* Light shadow */
+">
+
+        
+background-color: rgb(230, 230, 230);
+;;;;;
+;;;;
+;;;;
+}
+
+
+h1, h2, h3 {
+font-family: font-family: 'Oswald', sans-serif;
+
+}
+
+h1{
+color: black;
+font-family: 'Oswald', sans-serif;
+font-size: 32px;
+}
+
+h2{
+color: rgb(100, 100, 100);
+font-family: 'Oswald', sans-serif;
+font-size: 24px;
+font-weight: bold;
+
+}
+h3{
+color: black;
+font-family: font-family: 'Scheherazade New', serif;
+font-size: 20px;
+}
+
+a {
+text-decoration: none;
+color: darkred;
+font-weight: bolder;
+}
+
+a:hover {
+color: black;
+font-weight: bolder;
+
+
+}
+
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 30px;
+}
+
